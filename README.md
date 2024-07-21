@@ -306,13 +306,13 @@ This method allowed team members to stay in touch flexibly and quickly share upd
 
 ## ✅ Completed Tasks
 
-- `Homepage design and development` (Azize Dirilik)
-- `User Profile Page design and development` (Azra Arslan)
-- `Settings Page design and development` (Beraat Öztorun)
-- `Notifications Page design and development` (Berke Atahan)
-- `Logo design updates` (Berk Erdoğan)
+- `Splash screen design and development` (Azize Dirilik)
+- `User Profile Page design and development` (Beraat Öztorun)
+- `Profile Page design and development` (Beraat Öztorun)
+- `pop-up screen design and coding for note-taking page` (Berke Atahan)
+- `Logo design updates` (All team members)
 - `Completion of tasks from the first sprint` (All team members)
-- `Firebase integration and data management` (Berk Erdoğan)
+- `Firebase integration and design and coding of the ai page ` (Berk Erdoğan)
 - `Testing and bug fixes` (All team members)
 
 ## 📝 Evaluation
