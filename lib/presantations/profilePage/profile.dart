@@ -209,6 +209,7 @@ class UserName extends StatelessWidget {
           style: TextStyle(
             color: MotixColor.mainColorWhite,
             fontSize: screenWidth * 0.05,
+            fontFamily: 'Inter',
             fontWeight: FontWeight.w600,
           ),
         ),
@@ -234,6 +235,7 @@ class UserMail extends StatelessWidget {
           style: TextStyle(
             color: MotixColor.mainColorOrange,
             fontSize: screenWidth * 0.033,
+            fontFamily: 'Inter',
             fontWeight: FontWeight.w500,
           ),
         ),
@@ -257,6 +259,7 @@ class PostLine extends StatelessWidget {
           style: TextStyle(
             color: MotixColor.mainColorOrange,
             fontSize: screenWidth * 0.035,
+            fontFamily: 'Inter',
             fontWeight: FontWeight.w600,
             height: 1.5,
           ),
