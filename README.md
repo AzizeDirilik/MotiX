@@ -241,7 +241,7 @@ Based on the experience and feedback from the first sprint, we plan to complete 
 
 
 
-<details close><summary><h1>Second Sprint</h1></summary>
+<details close><summary><h1>Second Sprint 🚀</h1></summary>
 
 ## 🚀 Sprint Notes
 
