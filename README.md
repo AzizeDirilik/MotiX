@@ -97,6 +97,12 @@ MotiX provides the opportunity for users to earn `coupons` based on their activi
 
 MotiX offers a platform for users to `ask questions` and `share their experiences`. With community support, users can inspire and motivate each other to achieve their goals.
 
+## 🌟 Behance Portfolio
+
+<a href="https://www.behance.net/gallery/204548643/MotiX-App">
+  <img src="https://cdn-icons-png.freepik.com/512/3536/3536806.png?ga=GA1.1.1785275782.1707253719" alt="Behance Project" style="width: 70px; height: auto;">
+</a>
+
 ## Why MotiX?
 
 MotiX offers a comprehensive solution to help users organize their daily lives and focus on personal development. With features like **`note-taking and organization`**, **`AI-powered coaching services`**, a **`blog platform`** containing success stories and motivational content, **`social media capabilities`**, and **`coupons from partner brands`**, MotiX enables users to manage their lives more efficiently and purposefully. This article aims to explain the benefits provided by MotiX and how it adds value to users' lives.
@@ -486,9 +492,6 @@ This Sprint culminated in the `product delivery` and the team made significant p
 - **`Design-Development` Integration:** When making design changes, obtain early feedback on their impact on `functionality` to strengthen the integration of `design` and `development` processes.
 - **`Planning` and `Risk Management`:** Make time estimates more carefully during `sprint planning` and identify potential `risks` to make the delivery process more predictable and smooth.
 
-## 🌟 Behance Portfolio
 
-<a href="https://www.behance.net/gallery/204548643/MotiX-App">
-  <img src="https://cdn-icons-png.freepik.com/512/3536/3536806.png?ga=GA1.1.1785275782.1707253719" alt="Behance Project" style="width: 70px; height: auto;">
-</a>
 
+<img src="https://github.com/azizexb/MotiX/blob/main/bootcampFiles/mock_up/mockup3.png?raw=true"  />
