@@ -17,16 +17,16 @@
   <tr>
     <td><img src="https://github.com/azizexb/MotiX/blob/main/bootcampFiles/profilePhoto/Azize.png?raw=true" width="50" height="70" /></td>
     <td>Azize Dirilik</td>
-    <td>Scrum Master</td>
+    <td>Scrum Master and Developer </td>
     <td>
-      <a href="https://github.com/azizexb" target="_blank"><img src="https://raw.githubusercontent.com/azizexb/MotiX/9d14a1239d65a8ad0f675b8436570d59f26864ec/bootcampFiles/logo/github-icon.svg" width="20" height="20" /></a>
+      <a href="https://github.com/AzizeDirilik" target="_blank"><img src="https://raw.githubusercontent.com/azizexb/MotiX/9d14a1239d65a8ad0f675b8436570d59f26864ec/bootcampFiles/logo/github-icon.svg" width="20" height="20" /></a>
       <a href="https://www.linkedin.com/in/azizedirilik/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="20" height="20" /></a>
     </td>
   </tr>
   <tr>
     <td><img src="https://github.com/azizexb/MotiX/blob/main/bootcampFiles/profilePhoto/Berk.png?raw=true" width="50" height="70" /></td>
     <td>Berk Erdoğan</td>
-    <td>Product Owner</td>
+    <td>Product Owner and Developer</td>
     <td>
       <a href="https://github.com/BerkErdgn" target="_blank"><img src="https://raw.githubusercontent.com/azizexb/MotiX/9d14a1239d65a8ad0f675b8436570d59f26864ec/bootcampFiles/logo/github-icon.svg" width="20" height="20" /></a>
       <a href="https://www.linkedin.com/in/berk-erdgn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="20" height="20" /></a>
@@ -35,7 +35,7 @@
   <tr>
     <td><img src="https://github.com/azizexb/MotiX/blob/main/bootcampFiles/profilePhoto/Azra.png?raw=true" width="50" height="70" /></td>
     <td>Azra Arslan</td>
-    <td>Developer</td>
+    <td>Developer and Designer</td>
     <td>
       <a href="https://github.com/azrars" target="_blank"><img src="https://raw.githubusercontent.com/azizexb/MotiX/9d14a1239d65a8ad0f675b8436570d59f26864ec/bootcampFiles/logo/github-icon.svg" width="20" height="20" /></a>
       <a href="https://www.linkedin.com/in/azra-arslan-0b54082a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="20" height="20" /></a>
@@ -44,7 +44,7 @@
   <tr>
     <td><img src="https://github.com/azizexb/MotiX/blob/main/bootcampFiles/profilePhoto/Beraat.png?raw=true" width="50" height="70" /></td>
     <td>Beraat Öztorun</td>
-    <td>Developer</td>
+    <td>Developer and Designer</td>
     <td>
       <a href="https://github.com/beraatoztorun" target="_blank"><img src="https://raw.githubusercontent.com/azizexb/MotiX/9d14a1239d65a8ad0f675b8436570d59f26864ec/bootcampFiles/logo/github-icon.svg" width="20" height="20" /></a>
       <a href="https://www.linkedin.com/in/beraatoztorun/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="20" height="20" /></a>
@@ -405,7 +405,7 @@ Based on the experiences and feedback from the second sprint, we plan to:
 - `Task Estimation and Management:` Adopt a more meticulous approach in task estimation and management to minimize potential deviations during the sprint.
 </details>
 
-<details><summary><h1>Third Sprint 🚀</h1></summary></details>
+<details cloese><summary><h1>Third Sprint 🚀</h1></summary>
 
 ## 🚀 Sprint Notes
 
@@ -429,9 +429,9 @@ In this sprint, we held our `Daily Scrum` meetings continuously on `Discord`, co
 
 ### Daily Scrum Screenshots
 
-| ![Daily Scrum 1](https://github.com/azizexb/MotiX/blob/main/bootcampFiles/Sprint3/daily_scrum/DailyScrum.png?raw=true) | ![Daily Scrum 2](https://github.com/azizexb/MotiX/blob/main/bootcampFiles/Sprint3/daily_scrum/DailyScrum2.png?raw=true) |
-|:--:|:--:|
-| Daily Scrum 1 | Daily Scrum 2 |
+| ![Daily Scrum 2](https://github.com/azizexb/MotiX/blob/main/bootcampFiles/Sprint3/daily_scrum/DailyScrum2.png?raw=true) |
+|:--:|
+| Daily Scrum |
 
 ## 🖼️ Sprint Board Screenshots
 
@@ -493,5 +493,5 @@ This Sprint culminated in the `product delivery` and the team made significant p
 - **`Planning` and `Risk Management`:** Make time estimates more carefully during `sprint planning` and identify potential `risks` to make the delivery process more predictable and smooth.
 
 
-
+</details>
 <img src="https://github.com/azizexb/MotiX/blob/main/bootcampFiles/mock_up/mockup3.png?raw=true"  />
